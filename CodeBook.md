@@ -3,7 +3,7 @@ Code Book
 Getting and Cleaning Data Course project
 =========================================
 
-Activity was monitored using accelerometers in Samsung smartphones and were assigned to six categories (variable: activity):
+Activity was monitored using accelerometers in Samsung smartphones and were assigned to six categories (variable: activity):/n
 WALKING
 WALKING_UPSTAIRS
 WALKING_DOWNSTAIRS
